@@ -14,7 +14,18 @@
 	<div id="wrap">
     <?php include_once './header.php';?>
     <section id="service_section">
-       
+        <div class="service_list">
+        <ul>
+            <li>PHP Web Development</li>
+            <li>Java Desktop Applications(JavaFX)</li>
+            <li>Java Web Applications</li>
+            <li>Python Web Apps using Django Framework</li>
+            <li>Wordpress</li>
+            <li>PHP-Codeigniter</li>
+            <li>CakePHP</li>
+        </ul>
+            <button style="margin-left: 150px;" onclick="window.location='project.php'">View my projects</button>
+        </div>
     </section>
 	</div>
 	<div id="footer">
